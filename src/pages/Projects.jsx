@@ -4,8 +4,6 @@ import p2 from "../assets/p-2.jpeg";
 import p4 from "../assets/image.png";
 import p3 from "../assets/p-3.jpeg";
 import p5 from "../assets/p-5.jpeg";
-import project6 from "../assets/QR-Generator.png";
-import project7 from "../assets/BMI.png";
 import ecom from "../assets/ecommerce.jpeg";
 import chrono from "../assets/chrono.jpeg";
 
@@ -19,7 +17,7 @@ const Projects = () => {
       <div className="projects">
         <div className="box1">
           <a
-            href="https://expese-manager.vercel.app/"
+            href="https://casualstore-ovy9.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -32,10 +30,7 @@ const Projects = () => {
               Build on MERN E-commerce wwebsite Redux toolkit, TailwindCss , and
               ShadcnUI for integrated API using axios.
             </p>
-            <a
-              href="https://ecommerce-vizo.vercel.app/auth/login"
-              target="_blank"
-            >
+            <a href="https://casualstore-ovy9.vercel.app/" target="_blank">
               <i class="bx bx-link-external"></i>
             </a>
           </div>
